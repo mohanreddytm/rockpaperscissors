@@ -1,0 +1,12 @@
+.each-choice {
+  list-style-type: none;
+}
+
+.choice-image {
+  width: 12vw;
+}
+
+.normal-button {
+  border: none;
+  background-color: transparent;
+}

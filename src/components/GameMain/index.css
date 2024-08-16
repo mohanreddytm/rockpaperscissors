@@ -1,0 +1,23 @@
+.game-main-container {
+  background-color: #223a5f;
+  padding: 16px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.list-choices-cont {
+  display: flex;
+  padding: 0px;
+  margin-top: 16vh;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 30vw;
+  margin-bottom: 10vh;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Bree Serif';
+}
